@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4358" started-at="2021-08-12T15:08:14 IST" finished-at="2021-08-12T15:08:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4358" started-at="2021-08-12T15:08:14 IST" finished-at="2021-08-12T15:08:18 IST">
+      <class name="tests.PutAndPatchAndDelete">
+        <test-method status="PASS" signature="getDelete()[pri:0, instance:tests.PutAndPatchAndDelete@7c29daf3]" name="getDelete" duration-ms="3429" started-at="2021-08-12T15:08:14 IST" finished-at="2021-08-12T15:08:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDelete -->
+        <test-method status="PASS" signature="getPatch()[pri:0, instance:tests.PutAndPatchAndDelete@7c29daf3]" name="getPatch" duration-ms="461" started-at="2021-08-12T15:08:17 IST" finished-at="2021-08-12T15:08:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPatch -->
+        <test-method status="PASS" signature="getPut()[pri:0, instance:tests.PutAndPatchAndDelete@7c29daf3]" name="getPut" duration-ms="409" started-at="2021-08-12T15:08:18 IST" finished-at="2021-08-12T15:08:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPut -->
+      </class> <!-- tests.PutAndPatchAndDelete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
